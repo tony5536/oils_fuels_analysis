@@ -1,0 +1,30 @@
+# Ignore Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore exported outputs
+*.pdf
+*.html
+*.png
+*.jpg
+
+# Ignore hidden files
+.*
